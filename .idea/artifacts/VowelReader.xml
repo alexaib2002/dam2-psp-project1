@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VowelReader">
+    <output-path>$PROJECT_DIR$/out/artifacts/VowelReader</output-path>
+    <root id="archive" name="VowelReader.jar">
+      <element id="module-output" name="dam2-psp-final_project1" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/VowelReaderManifest/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

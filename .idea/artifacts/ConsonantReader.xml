@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConsonantReader">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConsonantReader</output-path>
+    <root id="archive" name="ConsonantReader.jar">
+      <element id="module-output" name="dam2-psp-final_project1" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/ConsonantReaderManifest/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
